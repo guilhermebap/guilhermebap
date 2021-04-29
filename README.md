@@ -1,9 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Barros</h1>
-<h3 align="center">Aspirante a cientista de dados / Engenheiro eletricista</h3>
+<h3 align="center">Aspirante a cientista de dados e formado em Engenharia Elétrica</h3>
 
 - 🌱 Eu estou atualmente estudando **Python, machine learning e Deep learning**
-
-- 📫 Para me contactar **guilhermebarrosap@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -17,9 +15,9 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebap&show_icons=true&theme=dracula&locale=en&layout=compact" alt="guilhermebap" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebap&show_icons=true&theme=dracula&locale=en&layout=compact" alt="guilhermebap" /></p>
 
 
 <h2></h2>
