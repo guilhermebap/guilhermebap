@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/guilhermebap" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="guilhermebap" height="30" width="40" /></a>
 <a href="https://kaggle.com/guilhermebap" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="guilhermebap" height="30" width="40" /></a>
-<a href="https://instagram.com/guilhermebap" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="guilhermebap" height="30" width="40" /></a>
+<a href="https://instagram.com/guilhermebap" target="blank"><img align="center" src="https://images.vexels.com/media/users/3/137380/isolated/preview/1b2ca367caa7eff8b45c09ec09b44c16-logotipo-do-iacute-cone-do-instagram-by-vexels.png" alt="guilhermebap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebap&show_icons=true&theme=dracula&locale=en&layout=compact" alt="guilhermebap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" /></p>
+
+<h2></h2>
