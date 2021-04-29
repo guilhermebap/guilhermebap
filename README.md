@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Guilherme Barros Alves Pereira</h1>
+<h1 align="center">Olá 👋, Eu sou Guilherme Barros</h1>
 <h3 align="center">Aspirante a cientista de dados / Engenheiro eletricista</h3>
 
 - 🌱 Eu estou atualmente estudando **Python, machine learning e Deep learning**
@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guilhermebap" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="guilhermebap" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilhermebap" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png" alt="guilhermebap" height="30" width="40" /></a>
 <a href="https://kaggle.com/guilhermebap" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="guilhermebap" height="30" width="40" /></a>
-<a href="https://instagram.com/guilhermebap" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-6.png" alt="guilhermebap" height="30" width="40" /></a>
+<a href="https://instagram.com/guilhermebap" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-logo-A807AD378B-seeklogo.com.png" alt="guilhermebap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
