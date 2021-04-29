@@ -21,7 +21,7 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebap&show_icons=true&theme=dracula&locale=en&layout=compact" alt="guilhermebap" /></p>
