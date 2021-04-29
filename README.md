@@ -18,10 +18,9 @@
 </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebap&show_icons=true&theme=dracula&locale=en&layout=compact" alt="guilhermebap" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" /></p>
 
 <h2></h2>
 
