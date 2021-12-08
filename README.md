@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Barros</h1>
 <h3 align="center">Aspirante a cientista de dados e formado em Engenharia Elétrica</h3>
 
-- 🌱 Eu estou atualmente estudando **Python, machine learning e Deep learning**
+- 🌱 Eu estou atualmente estudando **Python, machine learning, Deep learning e SQL**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
