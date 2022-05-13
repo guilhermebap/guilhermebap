@@ -1,9 +1,24 @@
 <h1 align="left">Guilherme Barros Alves Pereira</h1>
 <h3 align="left">Data Engineering and Data Science Student</h3>
 
+## About me
+My name is Guilherme Barros. I live in Belo Horizonte, Brazil.
+
+I graduated in electrical engineering and currently I'm trying to build a career in Data. I spent a huge amount of time learning skills of Data Science universe like Python, SQL, several models of Machine Learning, data analysis, processing Data, cleaning. 
+
+Now I am expanding my knowledge in the field of data engineering, focusing my studies on Spark, Cloud, SQL, NoSQL and Apache Camel.
+
+## Detailed information
+
+* **Name**: Guilherme Barros
+* **Age**: 32
+* **Living in**: Belo Horizonte - MG, Brazil
+* **Stack**: Python, SQL, NoSQL, Machine Learning, Google Cloud
+* **University**: Electrical Engineering - CEFET-MG
 
 
-- 🌱 Eu estou atualmente estudando **Python, machine learning, Deep learning e SQL**
+
+🌱 I am currently studying: **Cloud, Deep learning, SQL, NoSQL, Spark, Apache Camel**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -14,7 +29,6 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebap&show_icons=true&theme=dracula&locale=en" alt="guilhermebap" /></p>
