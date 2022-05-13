@@ -1,5 +1,5 @@
 <h1 align="left">Guilherme Barros Alves Pereira</h1>
-<h3 align="left">Data science student and Electrical Engineering Graduated</h3>
+<h3 align="left">Data Engineering and Data Science Student</h3>
 
 
 
