@@ -1,20 +1,25 @@
 <h1 align="left">Guilherme Barros Alves Pereira</h1>
-<h3 align="left">Data Engineering and Data Science Student</h3>
+<h3 align="left">Data Engineer and Data Science Student</h3>
 
 ## About me
 My name is Guilherme Barros. I live in Belo Horizonte, Brazil.
 
-I graduated in electrical engineering and currently I'm trying to build a career in Data. I spent a huge amount of time learning skills of Data Science universe like Python, SQL, several models of Machine Learning, data analysis, processing Data, cleaning. 
+I'm a Data Engineer working at ATRA Informatica. I graduated in electrical engineering and improve my knowledge about data. I spent a huge amount of time learning skills of Data Science universe like Python, SQL, several models of Machine Learning, building data pipelines, Data Pipeline Orchestration, Cloud, Docker, Linux and Spark. 
 
-Now I am expanding my knowledge in the field of data engineering, focusing my studies on Spark, Cloud, SQL, NoSQL and Apache Camel.
+Now I am expanding my knowledge in the field of data engineering, focusing my studies on Data pipelines, Spark, Cloud, and SQL .
 
 ## Detailed information
 
 * **Name**: Guilherme Barros
-* **Age**: 32
+* **Age**: 33
 * **Living in**: Belo Horizonte - MG, Brazil
-* **Stack**: Python, SQL, NoSQL, Machine Learning, Google Cloud
+* **Stack**: Python, SQL, Google Cloud, machine Learning, 
 * **University**: Electrical Engineering - CEFET-MG
+
+  
+* **Certification**:
+* Google Cloud Professional Data Engineer
+* Google Cloud Associate Cloud Engineer
 
 
 
