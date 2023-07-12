@@ -18,8 +18,8 @@ Now I am expanding my knowledge in the field of data engineering, focusing my st
 
   
 * **Certification**:
-* Google Cloud Professional Data Engineer
-* Google Cloud Associate Cloud Engineer
+  * Google Cloud Professional Data Engineer
+  * Google Cloud Associate Cloud Engineer
 
 
 
